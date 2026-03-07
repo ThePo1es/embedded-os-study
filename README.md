@@ -1,3 +1,7 @@
+# OSTEP 정리 문서 모음
+
+- [OSTEP 21장 숙제 해설: paging-linear-translate.py 완전 분석](./OSTEP_21_PAGING_LINEAR_TRANSLATE_HOMEWORK.md)
+
 # OSTEP 4 - 6 : 시스템 콜 vs SMC 오버헤드 계측
 
 ## 1. 개요 및 측정 결과
